@@ -44,8 +44,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"PSHS ZRC Project Test",
-    "path":"PSHS ZRC Project Test.yyp",
+    "name":"UI",
+    "path":"folders/Sprites/UI.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

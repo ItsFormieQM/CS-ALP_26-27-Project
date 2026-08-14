@@ -1,18 +1,22 @@
 {
   "$GMObject":"",
-  "%Name":"obj_overworld_controller",
+  "%Name":"obj_sbt_login_lg",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_overworld_controller",
+  "name":"obj_sbt_login_lg",
   "overriddenProperties":[],
   "parent":{
-    "name":"Start",
-    "path":"folders/Objects/Start.yy",
+    "name":"Children",
+    "path":"folders/Objects/Start/UI/Login/Children.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_start_bt_parent_login",
+    "path":"objects/obj_start_bt_parent_login/obj_start_bt_parent_login.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

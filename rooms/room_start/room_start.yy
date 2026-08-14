@@ -25,8 +25,8 @@
   ],
   "name":"room_start",
   "parent":{
-    "name":"PSHS ZRC Project Test",
-    "path":"PSHS ZRC Project Test.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
